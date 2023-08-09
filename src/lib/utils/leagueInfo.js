@@ -7,12 +7,12 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Welcome to The Original FA Dynasty League.</p>
+  <p>We are now entering Year 3 of our Dynasty League and welcome a new member, Sleepnaught. This is Sleepnaught's first time in Dynasty and we are glad to have him on board.</p>
+  <p>Looking back at the year that was. After another dominant Regular Season, VikingOfVoice managed to secure the 1 seed in the playoffs. His regular season record through 2 seasons is a whopping 25-3! However, once again the playoffs were unkind. He went up against The Fatties who slipped into the playoffs in the final week of the season. We also saw the defending Champion Jimmy in the Semi-Finals against Beer, however the magic wore off this year. Beer, after contemplating breaking it down and rebuilding all season, decided to hold strong and it paid off as he made it into the Championship game. </p>
+  <p>This gave us the Championship of Beer vs Fatties. Despite an NFL tragedy with Damar Hamlin, which caused leagues to scramble to figure out what to do with their championship matches, this game was not impacted. The Fatties put away Beer with one of the best performances we've ever seen, putting up an incredible 182.76 points. This gave The Fatties their First Dynasty Championship and they look forward to defending their title in 2024. </p>
+  <p>Since then we have had the 2023 Dynasty Draft. With excellent top prospects finding homes with the Operating on Demon Time, The Cam Burglers and Tony4theWeedGods. We also saw some pretty big names be traded on draft day as DJ Moore found his way to IfoughtTlaw and Tay Gowan.</p>
+  <p>Now that we are past the draft, teams are making calls, trying to get new players to complete their rosters and we prepare for battle on the field. Who will walk away with the 2023 FA Dynasty League Title? Will The Fatties defend their title and repeat? Will VikingOfVoice be able to take his regular season dominance into the playoffs? Or will we have a new unexpected riser? It all starts September 7th, 2023. </p>
 `;
 
 /*   STEP 3   */
