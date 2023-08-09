@@ -158,7 +158,7 @@
         <li>WR</li>
         <li>TE</li>
         <li>FLEX (RB/WR/TE)</li>
-        <li>FLEX (RB/WR)</li>
+        <li>FLEX (RB/WR/TE)</li>
         <li>SUPERFLEX (QB/RB/WR/TE)</li>
     </ul>
     
